@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 "This is the finance tracker app from the Complete Ruby on Rails Developer course".
+"Following are the important commands used in this project : "
+1.To check rails version: `rails -v `
